@@ -1,2 +1,2 @@
 # listas-encadeadas
- Implementação da classe ListaEncadeada
+ Implementação da classe ListaEncadeada.
